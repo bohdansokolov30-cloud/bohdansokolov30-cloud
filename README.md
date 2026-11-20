@@ -1,5 +1,27 @@
 ## Hi there 👋
+My name is Bohdan.
 
+I'm learning programming and working with Git and GitHub.
+
+About me
+
+💻 Learning C++ and software development
+
+🎵 Interested in music production
+
+📚 Improving my programming skills
+
+My skills
+
+C++
+
+Git and GitHub
+
+Visual Studio Code
+
+My goals
+
+To improve my programming skills and create interesting projects.
 <!--
 **bohdansokolov30-cloud/bohdansokolov30-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
